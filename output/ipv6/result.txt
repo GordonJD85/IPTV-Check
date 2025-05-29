@@ -5,21 +5,33 @@
 潮州综合,http://home.zackfair1993.xyz:8686/rtp/239.253.43.70:5146$自用源03
 潮州综合,http://www.mhnas.top:4022/udp/239.253.43.70:5146$自用源04
 潮州综合,http://dslive.grtn.cn/czzh/sd/live.m3u8$订阅源-IPv6-1920x1080
+潮州综合,http://mi.gzbody.com:85/udp/239.253.43.70:5146$订阅源-IPv6-1920x1080
+潮州综合,http://congtou.top:9292/udp/239.253.43.70:5146$订阅源-IPv6-1920x1080
 潮州民生,http://fannas.cn:8888/rtp/239.253.43.75:5146$自用源01
 潮州民生,http://louislog.cn:8888/rtp/239.253.43.75:5146$自用源02
 潮州民生,http://home.zackfair1993.xyz:8686/rtp/239.253.43.75:5146$自用源03
 潮州民生,http://www.mhnas.top:4022/udp/239.253.43.75:5146$自用源04
+潮州民生,http://mi.gzbody.com:85/udp/239.253.43.75:5146$订阅源-IPv6-1920x1080
+潮州民生,http://congtou.top:9292/udp/239.253.43.75:5146$订阅源-IPv6-1920x1080
 潮州民生高清,http://fannas.cn:8888/rtp/239.253.43.75:5146$自用源01
 潮州民生高清,http://louislog.cn:8888/rtp/239.253.43.75:5146$自用源02
 潮州民生高清,http://home.zackfair1993.xyz:8686/rtp/239.253.43.75:5146$自用源03
 潮州民生高清,http://www.mhnas.top:4022/udp/239.253.43.75:5146$自用源04
+潮州民生高清,http://mi.gzbody.com:85/udp/239.253.43.75:5146$订阅源-IPv6-1920x1080
+潮州民生高清,http://congtou.top:9292/udp/239.253.43.75:5146$订阅源-IPv6-1920x1080
 潮州综合高清,http://121.11.160.7:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$自用源00
 潮州综合高清,http://211.97.63.3:801/hls/503/index.m3u8$自用源01
 潮州综合高清,http://louislog.cn:8888/rtp/239.253.43.70:5146$自用源02
 潮州综合高清,http://home.zackfair1993.xyz:8686/rtp/239.253.43.70:5146$自用源03
 潮州综合高清,http://www.mhnas.top:4022/udp/239.253.43.70:5146$自用源04
 潮州综合高清,http://dslive.grtn.cn/czzh/sd/live.m3u8$订阅源-IPv6-1920x1080
+潮州综合高清,http://mi.gzbody.com:85/udp/239.253.43.70:5146$订阅源-IPv6-1920x1080
+潮州综合高清,http://congtou.top:9292/udp/239.253.43.70:5146$订阅源-IPv6-1920x1080
 汕头综合,http://php.jdshipin.com:8880/PLTV/iptv.php?id=stzh$订阅源-IPv6-1920x1080
+汕头综合,http://mi.gzbody.com:85/udp/239.253.43.45:5146$订阅源-IPv6-1920x1080
+汕头综合,http://congtou.top:9292/udp/239.253.43.45:5146$订阅源-IPv6-1920x1080
+汕头经济,http://mi.gzbody.com:85/udp/239.253.43.46:5146$订阅源-IPv6-1920x1080
+汕头经济,http://congtou.top:9292/udp/239.253.43.46:5146$订阅源-IPv6-1920x1080
 汕头新闻综合,http://tv.zzlag.top:9003/hls/3/index.m3u8$自用源02
 汕头新闻综合,http://home.zackfair1993.xyz:8686/rtp/239.253.43.45:5146$自用源03
 汕头新闻综合,http://www.mhnas.top:4022/udp/239.253.43.45:5146$自用源04
@@ -29,10 +41,14 @@
 揭阳生活,http://louislog.cn:8888/rtp/239.77.0.251:5146$自用源02
 揭阳生活,http://home.zackfair1993.xyz:8686/rtp/239.77.0.251:5146$自用源03
 揭阳生活,http://www.mhnas.top:4022/udp/239.77.0.251:5146$自用源04
+揭阳生活,http://mi.gzbody.com:85/udp/239.77.0.251:5146$订阅源-IPv6-1920x1080
+揭阳生活,http://congtou.top:9292/udp/239.77.0.251:5146$订阅源-IPv6-1920x1080
 揭阳综合,http://louislog.cn:8888/rtp/239.77.0.229:5146$自用源02
 揭阳综合,http://home.zackfair1993.xyz:8686/rtp/239.77.0.229:5146$自用源03
 揭阳综合,http://www.mhnas.top:4022/udp/239.77.0.229:5146$自用源04
 揭阳综合,http://dslive.grtn.cn/jyzh/sd/live.m3u8$订阅源-IPv6-1920x1080
+揭阳综合,http://mi.gzbody.com:85/udp/239.77.0.229:5146$订阅源-IPv6-1920x1080
+揭阳综合,http://congtou.top:9292/udp/239.77.0.229:5146$订阅源-IPv6-1920x1080
 
 📺央视频道,#genre#
 CCTV-1,http://goo.bkpcp.top/mg/cctv1$白名单
@@ -146,11 +162,19 @@ CCTV-17,http://[2409:8087:1a01:df::4025]:80/TVOD/88888888/224/3221225708/main.m3
 CETV-1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8$订阅源-IPv6-1920x1080
 CETV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?$订阅源-IPv6-1920x1080
 CETV-1,http://iptv.huuc.edu.cn/hls/cetv1.m3u8$订阅源-IPv6-1920x1080
+CETV-1,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226673/1.m3u8$订阅源-IPv6-1920x1080
+CETV-1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227021/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ELlgU9sgTT7iMtFgKHFa-dA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源-IPv6-1920x1080
 CETV-2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8$订阅源-IPv6-1920x1080
-CETV-2,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?$订阅源-IPv6-1920x1080
+CETV-2,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND$订阅源-IPv6-1920x1080
+CETV-2,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226718/1.m3u8$订阅源-IPv6-1920x1080
+CETV-2,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000071/index.m3u8$订阅源-IPv6-1920x1080
 CETV-3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$订阅源-IPv6-1920x1080
+CETV-3,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226577/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhE2Z89HKgsQOlN9opVn1iw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN03yUnk4zBVk1bynPPL3hZ%2CEND$订阅源-IPv6-1920x1080
+CETV-3,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8$订阅源-IPv6-1920x1080
 CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8$订阅源-IPv6-1920x1080
-CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8?$订阅源-IPv6-1920x1080
+CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAw_OvjRgJVjtlaOa0dcgzg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源-IPv6-1920x1080
+CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8$订阅源-IPv6-1920x1080
+CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAw_OvjRgJVjtlaOa0dcgzg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源-IPv6-1920x1080
 
 📡卫视频道,#genre#
 广东卫视,http://goo.bkpcp.top/mg/gdws$白名单
@@ -260,7 +284,6 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 江苏卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226310/index.m3u8$订阅源-IPv6-1920x1080
 江苏卫视,https://www.freetv.top/migu/623899368.m3u8?migutoken=49a45b3ba8201aca65a6b8be298982e4b5c80abded17ae9a45d43f576e0fabc24f849a21fff1e9653aace2fa93b5a1b13bb115f1ea22af88d87707910500a29b49881a6a8a76610a5c7c479903$订阅源-IPv6-1920x1080
 江苏卫视,http://[2409:8087:74f0:22::6]:6410/270000001128/9900000524/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000524$订阅源-IPv6-1920x1080
-江西卫视,http://goo.bkpcp.top/mg/jxws$白名单
 江西卫视,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPpe3gkzCutYMoqOQQZNzA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMVuW7agCgULnvgy9rhLyCH%2CEND$订阅源-IPv6-1920x1080
 江西卫视,http://yc.myds.me:35455/itv/1000000006000268001.m3u8?cdn=ystenlive$订阅源-IPv6-1920x1080
 江西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010060$订阅源-IPv6-1920x1080
@@ -355,6 +378,7 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8$订阅源-IPv6-1920x1080
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn$订阅源-IPv6-1920x1080
 明珠台,http://j.s.bkpcp.top/jj/zzt$订阅源-IPv6-1920x1080
+明珠台,http://o12.1678520.xyz/hls/mzt/playlist.m3u8$订阅源-IPv6-1920x1080
 TVB无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw$订阅源-IPv6-1920x1080
 TVB无线新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8$订阅源-IPv6-1920x1080
 TVB无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源-IPv6-1920x1080
@@ -408,8 +432,13 @@ CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=fb9ef80443f
 CHC动作电影,https://stream.freetv.fun/2f2e29b8759a2458730dc1f3686024472691952a50e787fe075944d0cb17f36e.ctv$订阅源-IPv6-1920x1080
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz###HLS\\n$订阅源-IPv6-1920x1080
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ?$订阅源-IPv6-1920x1080
+CHC高清电影,http://[2409:8087:4c0d:22:2::157]:6610/170000001115/UmaiCHAN6380764b172c9/1.m3u8?m3u8_level=2$订阅源-IPv6-1920x1080
+CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8$订阅源-IPv6-1920x1080
+CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8#http://60.255.240.247:8090/live/lnwsCHC-HDH265_4000.m3u8#http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8$订阅源-IPv6-1920x1080
+大染坊,http://cdn.jdshipin.com:8880/huya.php?id=11602086$订阅源-IPv6-1920x1080
 寻秦记,http://live.iill.top/yy.php?id=1382749900$订阅源-IPv6-1920x1080
 寻秦记,http://www.52sw.top:678/play/huya.php?id=23864973$订阅源-IPv6-1920x1080
+寻秦记,https://judy.livednow.dpdns.org/yy/1382749900$订阅源-IPv6-1920x1080
 黑莓电影,http://[2409:8087:1a01:df::4001]:80/TVOD/88888888/224/3221225681/main.m3u8$订阅源-IPv6-1920x1080
 黑莓电影,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8$订阅源-IPv6-1920x1080
 黑莓电影,http://[2409:8087:1:20:20::27]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E kBVQL3MtyiM0GGQzuPjqAQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源-IPv6-1920x1080
@@ -418,6 +447,8 @@ CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 周星驰,https://live.iill.top/huya/11342412/$订阅源-IPv6-1920x1080
 周星驰,https://live.metshop.top/yy/1382736808$订阅源-IPv6-1920x1080
 周星驰,https://www.goodiptv.club/huya/11342412$订阅源-IPv6-1920x1080
+周星驰,http://php.666230.xyz/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/proxy/虎牙.php?id=11336587$订阅源-IPv6-1920x1080
+周星驰,https://judy.livednow.dpdns.org/yy/1382736808$订阅源-IPv6-1920x1080
 洪金宝,http://cdn.jdshipin.com:8880/huya.php?id=11279251$订阅源-IPv6-1920x1080
 洪金宝,http://www.52sw.top:678/play/huya.php?id=11279251$订阅源-IPv6-1920x1080
 洪金宝,https://live.metshop.top/huya/11279251$订阅源-IPv6-1920x1080
@@ -433,4 +464,4 @@ CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 林正英,http://www.52sw.top:678/play/huya.php?id=11342421$订阅源-IPv6-1920x1080
 
 🕘️更新时间,#genre#
-2025-05-22 06:55:00,http://121.11.160.7:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$自用源00
+2025-05-30 07:01:59,http://121.11.160.7:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$自用源00

@@ -11,6 +11,10 @@ http://home.zackfair1993.xyz:8686/rtp/239.253.43.70:5146$自用源03
 http://www.mhnas.top:4022/udp/239.253.43.70:5146$自用源04
 #EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州综合.png" group-title="☘️广东频道",潮州综合
 http://dslive.grtn.cn/czzh/sd/live.m3u8$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州综合.png" group-title="☘️广东频道",潮州综合
+http://mi.gzbody.com:85/udp/239.253.43.70:5146$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州综合.png" group-title="☘️广东频道",潮州综合
+http://congtou.top:9292/udp/239.253.43.70:5146$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="潮州民生" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州民生.png" group-title="☘️广东频道",潮州民生
 http://fannas.cn:8888/rtp/239.253.43.75:5146$自用源01
 #EXTINF:-1 tvg-name="潮州民生" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州民生.png" group-title="☘️广东频道",潮州民生
@@ -19,6 +23,10 @@ http://louislog.cn:8888/rtp/239.253.43.75:5146$自用源02
 http://home.zackfair1993.xyz:8686/rtp/239.253.43.75:5146$自用源03
 #EXTINF:-1 tvg-name="潮州民生" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州民生.png" group-title="☘️广东频道",潮州民生
 http://www.mhnas.top:4022/udp/239.253.43.75:5146$自用源04
+#EXTINF:-1 tvg-name="潮州民生" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州民生.png" group-title="☘️广东频道",潮州民生
+http://mi.gzbody.com:85/udp/239.253.43.75:5146$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="潮州民生" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州民生.png" group-title="☘️广东频道",潮州民生
+http://congtou.top:9292/udp/239.253.43.75:5146$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="潮州民生高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州民生高清.png" group-title="☘️广东频道",潮州民生高清
 http://fannas.cn:8888/rtp/239.253.43.75:5146$自用源01
 #EXTINF:-1 tvg-name="潮州民生高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州民生高清.png" group-title="☘️广东频道",潮州民生高清
@@ -27,6 +35,10 @@ http://louislog.cn:8888/rtp/239.253.43.75:5146$自用源02
 http://home.zackfair1993.xyz:8686/rtp/239.253.43.75:5146$自用源03
 #EXTINF:-1 tvg-name="潮州民生高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州民生高清.png" group-title="☘️广东频道",潮州民生高清
 http://www.mhnas.top:4022/udp/239.253.43.75:5146$自用源04
+#EXTINF:-1 tvg-name="潮州民生高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州民生高清.png" group-title="☘️广东频道",潮州民生高清
+http://mi.gzbody.com:85/udp/239.253.43.75:5146$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="潮州民生高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州民生高清.png" group-title="☘️广东频道",潮州民生高清
+http://congtou.top:9292/udp/239.253.43.75:5146$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="潮州综合高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州综合高清.png" group-title="☘️广东频道",潮州综合高清
 http://121.11.160.7:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$自用源00
 #EXTINF:-1 tvg-name="潮州综合高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州综合高清.png" group-title="☘️广东频道",潮州综合高清
@@ -39,8 +51,20 @@ http://home.zackfair1993.xyz:8686/rtp/239.253.43.70:5146$自用源03
 http://www.mhnas.top:4022/udp/239.253.43.70:5146$自用源04
 #EXTINF:-1 tvg-name="潮州综合高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州综合高清.png" group-title="☘️广东频道",潮州综合高清
 http://dslive.grtn.cn/czzh/sd/live.m3u8$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="潮州综合高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州综合高清.png" group-title="☘️广东频道",潮州综合高清
+http://mi.gzbody.com:85/udp/239.253.43.70:5146$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="潮州综合高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州综合高清.png" group-title="☘️广东频道",潮州综合高清
+http://congtou.top:9292/udp/239.253.43.70:5146$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/汕头综合.png" group-title="☘️广东频道",汕头综合
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=stzh$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/汕头综合.png" group-title="☘️广东频道",汕头综合
+http://mi.gzbody.com:85/udp/239.253.43.45:5146$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/汕头综合.png" group-title="☘️广东频道",汕头综合
+http://congtou.top:9292/udp/239.253.43.45:5146$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/汕头经济.png" group-title="☘️广东频道",汕头经济
+http://mi.gzbody.com:85/udp/239.253.43.46:5146$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/汕头经济.png" group-title="☘️广东频道",汕头经济
+http://congtou.top:9292/udp/239.253.43.46:5146$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="汕头新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/汕头新闻综合.png" group-title="☘️广东频道",汕头新闻综合
 http://tv.zzlag.top:9003/hls/3/index.m3u8$自用源02
 #EXTINF:-1 tvg-name="汕头新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/汕头新闻综合.png" group-title="☘️广东频道",汕头新闻综合
@@ -59,6 +83,10 @@ http://louislog.cn:8888/rtp/239.77.0.251:5146$自用源02
 http://home.zackfair1993.xyz:8686/rtp/239.77.0.251:5146$自用源03
 #EXTINF:-1 tvg-name="揭阳生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/揭阳生活.png" group-title="☘️广东频道",揭阳生活
 http://www.mhnas.top:4022/udp/239.77.0.251:5146$自用源04
+#EXTINF:-1 tvg-name="揭阳生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/揭阳生活.png" group-title="☘️广东频道",揭阳生活
+http://mi.gzbody.com:85/udp/239.77.0.251:5146$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="揭阳生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/揭阳生活.png" group-title="☘️广东频道",揭阳生活
+http://congtou.top:9292/udp/239.77.0.251:5146$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="揭阳综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/揭阳综合.png" group-title="☘️广东频道",揭阳综合
 http://louislog.cn:8888/rtp/239.77.0.229:5146$自用源02
 #EXTINF:-1 tvg-name="揭阳综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/揭阳综合.png" group-title="☘️广东频道",揭阳综合
@@ -67,6 +95,10 @@ http://home.zackfair1993.xyz:8686/rtp/239.77.0.229:5146$自用源03
 http://www.mhnas.top:4022/udp/239.77.0.229:5146$自用源04
 #EXTINF:-1 tvg-name="揭阳综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/揭阳综合.png" group-title="☘️广东频道",揭阳综合
 http://dslive.grtn.cn/jyzh/sd/live.m3u8$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="揭阳综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/揭阳综合.png" group-title="☘️广东频道",揭阳综合
+http://mi.gzbody.com:85/udp/239.77.0.229:5146$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="揭阳综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/揭阳综合.png" group-title="☘️广东频道",揭阳综合
+http://congtou.top:9292/udp/239.77.0.229:5146$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://goo.bkpcp.top/mg/cctv1$白名单
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
@@ -289,16 +321,32 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道",CETV-1
 http://iptv.huuc.edu.cn/hls/cetv1.m3u8$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道",CETV-1
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226673/1.m3u8$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道",CETV-1
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227021/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ELlgU9sgTT7iMtFgKHFa-dA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="📺央视频道",CETV-2
 http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="📺央视频道",CETV-2
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?$订阅源-IPv6-1920x1080
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="📺央视频道",CETV-2
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226718/1.m3u8$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="📺央视频道",CETV-2
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000071/index.m3u8$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CETV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV3.png" group-title="📺央视频道",CETV-3
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="CETV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV3.png" group-title="📺央视频道",CETV-3
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226577/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhE2Z89HKgsQOlN9opVn1iw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN03yUnk4zBVk1bynPPL3hZ%2CEND$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="CETV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV3.png" group-title="📺央视频道",CETV-3
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道",CETV-4
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道",CETV-4
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8?$订阅源-IPv6-1920x1080
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAw_OvjRgJVjtlaOa0dcgzg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道",CETV-4
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道",CETV-4
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAw_OvjRgJVjtlaOa0dcgzg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
 http://goo.bkpcp.top/mg/gdws$白名单
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
@@ -514,8 +562,6 @@ https://www.freetv.top/migu/623899368.m3u8?migutoken=49a45b3ba8201aca65a6b8be298
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="📡卫视频道",江苏卫视
 http://[2409:8087:74f0:22::6]:6410/270000001128/9900000524/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000524$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="📡卫视频道",江西卫视
-http://goo.bkpcp.top/mg/jxws$白名单
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="📡卫视频道",江西卫视
 http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPpe3gkzCutYMoqOQQZNzA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMVuW7agCgULnvgy9rhLyCH%2CEND$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="📡卫视频道",江西卫视
 http://yc.myds.me:35455/itv/1000000006000268001.m3u8?cdn=ystenlive$订阅源-IPv6-1920x1080
@@ -699,6 +745,8 @@ https://cdn3.163189.xyz/live/fct/stream.m3u8$订阅源-IPv6-1920x1080
 http://php.jdshipin.com:8880/smt.php?id=pearl_twn$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🌊港·澳·台",明珠台
 http://j.s.bkpcp.top/jj/zzt$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🌊港·澳·台",明珠台
+http://o12.1678520.xyz/hls/mzt/playlist.m3u8$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="TVB无线新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB无线新闻.png" group-title="🌊港·澳·台",TVB无线新闻
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="TVB无线新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB无线新闻.png" group-title="🌊港·澳·台",TVB无线新闻
@@ -801,10 +849,20 @@ https://stream.freetv.fun/2f2e29b8759a2458730dc1f3686024472691952a50e787fe075944
 http://eastscreen.tv/ooooo.php?id=chcdz###HLS\\n$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ?$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
+http://[2409:8087:4c0d:22:2::157]:6610/170000001115/UmaiCHAN6380764b172c9/1.m3u8?m3u8_level=2$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8#http://60.255.240.247:8090/live/lnwsCHC-HDH265_4000.m3u8#http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="大染坊" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大染坊.png" group-title="🎬电影频道",大染坊
+http://cdn.jdshipin.com:8880/huya.php?id=11602086$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="寻秦记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/寻秦记.png" group-title="🎬电影频道",寻秦记
 http://live.iill.top/yy.php?id=1382749900$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="寻秦记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/寻秦记.png" group-title="🎬电影频道",寻秦记
 http://www.52sw.top:678/play/huya.php?id=23864973$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="寻秦记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/寻秦记.png" group-title="🎬电影频道",寻秦记
+https://judy.livednow.dpdns.org/yy/1382749900$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓电影.png" group-title="🎬电影频道",黑莓电影
 http://[2409:8087:1a01:df::4001]:80/TVOD/88888888/224/3221225681/main.m3u8$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓电影.png" group-title="🎬电影频道",黑莓电影
@@ -821,6 +879,10 @@ https://live.iill.top/huya/11342412/$订阅源-IPv6-1920x1080
 https://live.metshop.top/yy/1382736808$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="周星驰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰.png" group-title="🎬电影频道",周星驰
 https://www.goodiptv.club/huya/11342412$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="周星驰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰.png" group-title="🎬电影频道",周星驰
+http://php.666230.xyz/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/proxy/虎牙.php?id=11336587$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="周星驰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰.png" group-title="🎬电影频道",周星驰
+https://judy.livednow.dpdns.org/yy/1382736808$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="洪金宝" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/洪金宝.png" group-title="🎬电影频道",洪金宝
 http://cdn.jdshipin.com:8880/huya.php?id=11279251$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="洪金宝" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/洪金宝.png" group-title="🎬电影频道",洪金宝
@@ -847,5 +909,5 @@ https://live.iill.top/huya/29985109$订阅源-IPv6-1920x1080
 https://live.metshop.top/huya/11342421$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="林正英" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/林正英.png" group-title="🎬电影频道",林正英
 http://www.52sw.top:678/play/huya.php?id=11342421$订阅源-IPv6-1920x1080
-#EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州综合.png" group-title="🕘️更新时间",2025-05-22 06:55:00
+#EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州综合.png" group-title="🕘️更新时间",2025-05-30 07:01:59
 http://121.11.160.7:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$自用源00
